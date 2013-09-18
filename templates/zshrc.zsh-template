@@ -9,7 +9,7 @@ ZSH_THEME="blinks"
 
 # Config aliases
 
-alias ohmyzsh="vim ~/.oh-my-zsh"
+alias ohmyzsh="vim ~/.zshrc"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
